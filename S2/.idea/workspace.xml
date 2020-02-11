@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36ba385d-21fd-44b5-9840-f5b01dd2414b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X0p19x6HmMEFDGEWKGn0CDYTxJ" />
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Mailboxes">
+    <configuration name="ActorsIntro" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Actors.ActorsIntro" />
+      <module name="S2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AkkaDispatchers" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Infrastucture.AkkaDispatchers" />
+      <module name="S2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Infrastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AkkaRouters" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Infrastucture.AkkaRouters" />
+      <module name="S2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Infrastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mailboxes" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Infrastucture.Mailboxes" />
+      <module name="S2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Infrastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchedulersTimers" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Infrastucture.SchedulersTimers" />
+      <module name="S2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Infrastucture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mailboxes" />
+        <item itemvalue="Application.AkkaDispatchers" />
+        <item itemvalue="Application.AkkaRouters" />
+        <item itemvalue="Application.ActorsIntro" />
+        <item itemvalue="Application.SchedulersTimers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="S2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="s2 [file:/Users/mutebard/Desktop/DSD/Scala/S2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="S2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3160418336359" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3968843912" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36ba385d-21fd-44b5-9840-f5b01dd2414b" name="Default Changelist" comment="" />
+      <created>1580192649019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580192649019</updated>
+    </task>
+    <servers />
+  </component>
+</project>
