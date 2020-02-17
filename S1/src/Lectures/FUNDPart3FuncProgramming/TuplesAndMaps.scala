@@ -2,6 +2,13 @@ package Lectures.FUNDPart3FuncProgramming
 
 object TuplesAndMaps extends App {
 
+room2
+
+}
+
+
+object room1
+{
     //TUPLES
     //Tuples are finite ordered, kinda like lists
     val aTuple = new Tuple2(2, "hi")
@@ -41,11 +48,11 @@ object TuplesAndMaps extends App {
     println(phonebook4.toList)
 
     object Circle{
-      val round = true
-      def apply (color : String, speed : Int) : Circle = { new Circle (color, speed)} // its doing this  in the background
+        val round = true
+        def apply (color : String, speed : Int) : Circle = { new Circle (color, speed)} // its doing this  in the background
     }
     class Circle(val color : String , val speed : Int){
-      def apply() : Vector[String] = Vector(s"$color", s"$speed") //but interfacing with you over here
+        def apply() : Vector[String] = Vector(s"$color", s"$speed") //but interfacing with you over here
     }
     println(List("Type 1", Circle("Green", 25)()), List("Type 2", Circle("Red", 25)()))
 
@@ -54,5 +61,39 @@ object TuplesAndMaps extends App {
     println(fruits.groupBy(_.length >= 6))
     println(fruits.groupBy(_.contains("e")))
     //look up more group by tricks
+}
+
+object room2
+{
+
+    case class Vote(citizenPID : String, candidate: String)
+    val vote1 = Vote("Carl", "Bernie")
+    val vote2 = Vote("Erin", "Bernie")
+    val vote3 = Vote("Anti", "Warren")
+    val vote4 = Vote("Sam", "Booker")
+    val vote5 = Vote("Carla", "Bernie")
+
+    var latestVoteId : Int = 0
+    var tally : Map[String, Int] = Map().withDefaultValue(0)
+
+
+
+//    println(tally)
+//you populate a map by specifying tuples or pairings
+    var aVote = (vote1.candidate -> (tally(vote1.candidate) + 1))
+    tally = tally + aVote
+    println(tally + aVote)
+    aVote = (vote2.candidate -> (tally(vote2.candidate) + 1))
+    tally = tally + aVote
+    println(tally + aVote)
+    aVote = (vote3.candidate -> (tally(vote3.candidate) + 1))
+    tally = tally + aVote
+    println(tally + aVote)
+    aVote = (vote4.candidate -> (tally(vote4.candidate) + 1))
+    tally = tally + aVote
+    println(tally + aVote)
+    aVote = (vote5.candidate -> (tally(vote5.candidate) + 1))
+    tally = tally + aVote
+    println(tally + aVote)
 
 }

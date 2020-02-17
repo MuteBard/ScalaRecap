@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a982e8-d612-4bcb-a0b4-9a13241a5242" name="Default Changelist" comment="" />
+    <list default="true" id="20a982e8-d612-4bcb-a0b4-9a13241a5242" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$Circle$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/META-INF/Intro.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Playground/ScalaPlayground.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S3/.idea/modules/udemy-akka-persistence-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/.idea/modules/udemy-akka-persistence-starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S3/src/main/scala/EventSourcing/PersistentActors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/src/main/scala/EventSourcing/PersistentActors.scala" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +41,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WAlLDxR92oucUi2ubabKpgwbuL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
@@ -47,13 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadCommunicationPart3">
-    <configuration name="Intro" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.ADVPart3Concurrency.Intro" />
+  <component name="RunManager" selected="Application.ScalaPlayground">
+    <configuration name="ScalaPlayground" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Playground.ScalaPlayground" />
       <module name="Intro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.ADVPart3Concurrency.*" />
+          <option name="PATTERN" value="Playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threads" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Threads" />
+    <configuration name="TuplesAndMaps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.FUNDPart3FuncProgramming.TuplesAndMaps" />
       <module name="Intro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="Lectures.FUNDPart3FuncProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScalaPlayground" />
+        <item itemvalue="Application.TuplesAndMaps" />
         <item itemvalue="Application.ThreadCommunicationPart3" />
         <item itemvalue="Application.ThreadCommunicationPart2" />
         <item itemvalue="Application.ThreadCommunication" />
-        <item itemvalue="Application.Threads" />
-        <item itemvalue="Application.Intro" />
       </list>
     </recent_temporary>
   </component>
@@ -135,5 +158,18 @@
       <updated>1578600222276</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
