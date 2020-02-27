@@ -8,7 +8,7 @@ object ScalaPlayground extends App {
   for (_ <- 1 to 100) {
     val random = new Random
     val citizenPID = random.alphanumeric take 10 mkString
-    val x = random.nextInt(4)
+    val x = random.nextInt(4)BN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ,M
     val canidate = x match {
       case 0 => "Jared A."
       case 1 => "Erin H."

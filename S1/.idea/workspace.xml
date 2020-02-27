@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a982e8-d612-4bcb-a0b4-9a13241a5242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/ADVPart3Concurrency/ThreadCommunicationPart3$Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$Circle$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps$Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/META-INF/Intro.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Intro/Playground/ScalaPlayground$delayedInit$body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/FUNDPart3FuncProgramming/TuplesAndMaps.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Playground/ScalaPlayground.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S3/.idea/modules/udemy-akka-persistence-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/.idea/modules/udemy-akka-persistence-starter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S3/src/main/scala/EventSourcing/PersistentActors.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/src/main/scala/EventSourcing/PersistentActors.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
