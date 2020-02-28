@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ba385d-21fd-44b5-9840-f5b01dd2414b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S1/src/Playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../S1/src/Playground/ScalaPlayground.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4/src/main/scala/Primer/OperatorFusion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../S4/src/main/scala/Primer/OperatorFusion.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
