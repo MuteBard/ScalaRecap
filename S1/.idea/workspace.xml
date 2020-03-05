@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a982e8-d612-4bcb-a0b4-9a13241a5242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../S4/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S4/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S4/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S4/target/scala-2.13/classes/Primer/OPLesson$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../S4/target/scala-2.13/classes/Primer/OPLesson$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Playground/ScalaPlayground.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../S3/src/main/resources/application.conf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
