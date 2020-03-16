@@ -170,6 +170,7 @@ object ActorCapabilities extends App {
   erin ! Add(carl)
   erin ! SayHiTo(carl)
   carl ! SayHiTo(erin)
+  carl ! "Hi"
 
 
 }

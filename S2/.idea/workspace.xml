@@ -4,9 +4,10 @@
     <list default="true" id="36ba385d-21fd-44b5-9840-f5b01dd2414b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../S1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S5/src/main/json/guitar.json" beforeDir="false" afterPath="$PROJECT_DIR$/../S5/src/main/json/bug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/playground/Playground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/playground/Playground$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/playground/Playground.class" beforeDir="false" afterPath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/playground/Playground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Actors/ActorCapabilities.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Actors/ActorCapabilities.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S5/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S5/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/high_level_server/HighlevelExample$$anonfun$$nestedInanonfun$personServerRoute$11$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/high_level_server/HighlevelExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../S5/target/scala-2.13/classes/high_level_server/HighlevelExample$.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mailboxes">
+  <component name="RunManager" selected="Application.ActorCapabilities">
+    <configuration name="ActorCapabilities" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Actors.ActorCapabilities" />
+      <module name="S2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Actors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ActorsIntro" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Actors.ActorsIntro" />
       <module name="S2" />
@@ -108,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulersTimers" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Infrastucture.SchedulersTimers" />
-      <module name="S2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Infrastucture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActorCapabilities" />
         <item itemvalue="Application.Mailboxes" />
         <item itemvalue="Application.AkkaDispatchers" />
         <item itemvalue="Application.AkkaRouters" />
         <item itemvalue="Application.ActorsIntro" />
-        <item itemvalue="Application.SchedulersTimers" />
       </list>
     </recent_temporary>
   </component>
